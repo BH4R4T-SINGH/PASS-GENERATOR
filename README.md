@@ -15,3 +15,5 @@ This project is a simple tool that allows you to generate a random strong passwo
 
 `python password_generator.py -l 12 -t "my password" -s
 `
+
+Thank you for using the Password Generator! If you have any questions or suggestions, please feel free to open an issue or submit a pull request.
