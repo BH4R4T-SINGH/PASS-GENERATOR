@@ -3,10 +3,15 @@ This project is a simple tool that allows you to generate a random strong passwo
 
 ## Features
 
->> Generate a password with a specified length (e.g. -l 12 to generate a password of length 12)
+1. Generate a password with a specified length (e.g. -l 12 to generate a password of length 12)
 
->> Generate a password with a random length between 12 and 125 characters (e.g. -r)
+2. Generate a password with a random length between 12 and 125 characters (e.g. -r)
 
->> Specify a title for the stored password (e.g. -t my password to use "my password.txt" as the file name)
+3. Specify a title for the stored password (e.g. -t my password to use "my password.txt" as the file name)
 
->> Store the generated password in a text file (e.g. -s)
+4. Store the generated password in a text file (e.g. -s)
+
+**To use the Password Generator, simply clone or download the repository, navigate to the directory in your terminal, and run the script with the desired arguments. For example:**
+
+`python password_generator.py -l 12 -t "my password" -s
+`
