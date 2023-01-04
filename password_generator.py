@@ -13,7 +13,6 @@ banner = """
                 ||----w |
                 ||     ||
 """
-print(banner)
 
 def generate_password(length=None, random_length=False):
     # Initialize a string of characters to use for the password
@@ -44,6 +43,7 @@ else:
     password = generate_password(length=16)
 
 # Print the generated password
+print(banner)
 print(password)
 
 # If the `store` argument is specified, store the password in a text file
