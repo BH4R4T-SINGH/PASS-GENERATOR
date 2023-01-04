@@ -7,6 +7,8 @@ git clone https://github.com/BH4R4T-SINGH/PASS-GENERATOR.git
 
 ## Usage
 
+ **-h > help**
+
  **-l > length of the password**
 
  **-r > generate a password with a random length**
